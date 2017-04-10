@@ -1,0 +1,7 @@
+* Python 实现 k近邻
+  + <main.py> -> 主内容 
+    + 尝试用 Cython 加速一些数学计算
+  + <one_line.py> -> 主内容
+  + [fn:0]
+
+[fn:0] 参阅代码
